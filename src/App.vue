@@ -161,6 +161,6 @@ export default {
     font-size: 48px;
     font-weight: 700;
     font-style: italic;
-    text-shadow: 3px 6px rgba(255,255,255, 0.25);
+    text-shadow: 3px 6px rgba(0,0,0, 0.25);
   }
 </style>
